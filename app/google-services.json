@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402550309378",
+    "firebase_url": "https://ftoe-e80a9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ftoe-e80a9",
+    "storage_bucket": "ftoe-e80a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402550309378:android:a097104cebc129e05b9d1b",
+        "android_client_info": {
+          "package_name": "com.example.FTOEyuval100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402550309378-qg75lhb858sudpa1is36mgqqg6n2v6kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1--u3I-dRBUVZsdXKyDnHgeg4Mam-IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402550309378-qg75lhb858sudpa1is36mgqqg6n2v6kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
